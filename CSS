@@ -1,0 +1,49 @@
+body {
+  background: rgb(72, 60, 50);
+  font-family: "Gill Sans", "Gill Sans MT", "Helvetica", "Helvetica Neue","Arial", sans-serif;
+}
+
+h4 {
+  color: rgb(64,64,64);
+}
+
+h2 {
+  color: rgb(0,0,0);
+}
+
+.pinkheading {
+  color: rgb(0,0,0)
+}
+
+ul {
+  padding: 16px;
+  margin: 16px;
+  border:5px solid;
+  background: rgb (200,126,82);
+}
+
+.mydiv {
+  background:rgb(255,0,0)
+  padding:16px;
+}
+
+.wrapper {
+  width: 70%;
+  margin: 32px auto;
+  background: #ecf0f1;
+  padding: 32px;
+  border: 16px solid #8BB381;
+}
+
+h4 {
+  margin: 0.0;
+}
+
+p {
+  margin: 0.0;
+}
+
+
+h1 {
+  margin: 0.0;
+}
